@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Undefined",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://goo.gl/tDSGow" group-title="Undefined",PTP - Phú Yên
+http://113.161.4.48:8080/phuyen/tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Undefined",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" group-title="Undefined",THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" group-title="Undefined",Tien Giang
+http://thtg.vn:8001/thtg.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/vitv.png" group-title="Undefined",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
